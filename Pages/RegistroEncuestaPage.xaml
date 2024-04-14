@@ -11,6 +11,7 @@
         <local:TipoPreguntaToStringConverter x:Key="tipoPreguntaToStringConverter" />
     </ContentPage.Resources>
 
+    
     <Grid>
         <Image Source="https://i.pinimg.com/550x/85/83/29/8583295c22ce8e0b9931b4c1512e7761.jpg" Aspect="AspectFill" />
 
